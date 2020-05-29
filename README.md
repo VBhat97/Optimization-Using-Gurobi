@@ -1,6 +1,7 @@
 # Optimization Using Mathematical Models
 
-Has Assignment solutions on the following technologies (All used using Python) :
+The Assignment solutions are on the following technologies (All code using Python) :
 
 1) Gurobi Optimization
 2) Google OR Tools
+3) Stable Matching
